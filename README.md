@@ -1,5 +1,11 @@
 # Github Blog Flatfile CMS
 
+Downlaod New Version: https://creativitaz.gumroad.com/l/github-bl
+
+Explore all projects: https://www.hockeycomputindo.com
+
+Official: https:///bludit.axcora.com
+
 <a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
 
 This project is inspired by github, so we built look like github repo page design.
