@@ -2,7 +2,7 @@
 
 Downlaod New Version: https://creativitaz.gumroad.com/l/github-bl
 
-Explore all projects: https://www.hockeycomputindo.com
+Explore all projects: https://hockeycomputindo.com/themes/bludit
 
 Official: https:///bludit.axcora.com
 
